@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Editar Registro</title>
+</head>
+<body>
+    <h1>Editar Registro</h1>
+    <form action="{{ url_for('editar', id=dado.id) }}" method="POST">
+        <label for="nome">Nome:</label>
+        <input type="text" name="nome" id="nome" value="{{ dado.nome }}" required><br><br>
+        <label for="mensagem">Mensagem:</label>
+        <input type="text" name="mensagem" id="mensagem" value="{{ dado.mensagem }}" required><br><br>
+        <button type="submit">Salvar Alterações</button>
+    </form>
+</body>
+</html>
