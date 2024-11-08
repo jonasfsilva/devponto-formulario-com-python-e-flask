@@ -4,13 +4,13 @@ Este repositório contém o código dos artigos publicados no blog [DevPonto](ht
 
 ## Artigos
 
-1. **[Como Criar um Formulário em Flask e Python - Parte 1](https://devponto.com/como-criar-um-formulario-em-flask-e-python-parte-1)**  
-   Explica a criação de um formulário básico com Flask, cobrindo configuração inicial do projeto e a criação do formulário.
+1. **[Como Criar um Formulário em Flask e Python - Parte 1](https://devponto.com/posts/como-criar-um-formulario-em-flask-e-python/)**  
+   Explica a criação de um formulário básico com Flask, cobrindo a configuração inicial do projeto e a criação do formulário.
 
-2. **[Como Criar um Formulário em Flask e Python - Parte 2](https://devponto.com/como-criar-um-formulario-em-flask-e-python-parte-2)**  
+2. **[Como Criar um Formulário em Flask e Python - Parte 2](https://www.devponto.com/posts/como-criar-um-formulario-em-flask-e-python-parte-2/)**  
    Ensina como listar e deletar registros em um banco de dados SQLite, com Flask, implementando funcionalidades de CRUD.
 
-3. **[Como Criar um Formulário em Flask e Python - Parte 3](https://devponto.com/como-criar-um-formulario-em-flask-e-python-parte-3)**  
+3. **[Como Criar um Formulário em Flask e Python - Parte 3](https://www.devponto.com/posts/como-criar-um-formulario-em-flask-e-python-parte-3/)**  
    Nesta última parte, veremos como atualizar registros por meio de um formulário, completando as funcionalidades CRUD.
 
 ## Sobre o Autor
